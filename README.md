@@ -7,4 +7,4 @@ as you can see, we did get somewhat there but it wasn't perfect. my team had bee
 
 good fun.
 
-credit for the original WADParser, which probably has been modified like no tomorrow, goes to (Neil)[https://github.com/neilo40/]
+credit for the original WADParser, which probably has been modified like no tomorrow, goes to [Neil](https://github.com/neilo40/)
